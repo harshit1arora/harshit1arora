@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harshit Arora</h1>
+<h1 align="center">Hi Developers 👋, I'm Harshit Arora</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit1arora&label=Profile%20views&color=0e75b6&style=flat" alt="harshit1arora" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit1arora" alt="harshit1arora" /></a> </p>
 
@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/harshit10arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit10arora" height="30" width="40" /></a>
 <a href="https://instagram.com/iharshit_arora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iharshit_arora" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,4 +17,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit1arora&show_icons=true&locale=en&layout=compact" alt="harshit1arora" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit1arora&show_icons=true&locale=en" alt="harshit1arora" /></p>
+
+
+
+
+###
+
+<div align="center">
+</div>
+
+###
+
+
+###
+
+<br clear="both">
