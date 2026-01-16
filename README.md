@@ -151,11 +151,11 @@ A <b>Computer Science Engineering</b> student who loves building <b>impactful pr
 <h1 align="center">📌 Featured Projects</h1>
 
 <p align="center">
-🔥 <b>Add your best projects here</b> <br><br>
-✅ Project 1: Full Stack App <br>
-✅ Project 2: Analytics Dashboard <br>
-✅ Project 3: UI/UX Case Study <br><br>
-<i>(If you want, I’ll write this section perfectly with real links + icons)</i>
+🔥 <b>Projects</b> <br><br>
+Project 1: Full Stack App <br>
+Project 2: Analytics Dashboard <br>
+Project 3: UI/UX Case Study <br><br>
+
 </p>
 
 ---
