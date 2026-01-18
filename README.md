@@ -152,7 +152,7 @@ A <b>Computer Science Engineering</b> student who loves building <b>impactful pr
 
 <p align="center">
 🔥 <b>Projects</b> <br><br>
-Project 1: Full Stack App <br>
+Project 1: Walspectra <br>
 Project 2: Analytics Dashboard <br>
 Project 3: UI/UX Case Study <br><br>
 
