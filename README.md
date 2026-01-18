@@ -169,4 +169,3 @@ Project 3: GuruVani - Personalised Teaching Assistant for Teachers <br><br>
 </p>
 
 
-Harshit Arora
