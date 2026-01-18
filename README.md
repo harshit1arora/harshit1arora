@@ -167,3 +167,6 @@ Project 3: GuruVani - Personalised Teaching Assistant for Teachers <br><br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F5FF&height=140&section=footer&animation=twinkling" />
 </p>
+
+
+Harshit Arora
