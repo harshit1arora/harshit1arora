@@ -1,42 +1,44 @@
 <!-- ====================================================== -->
-<!--          HARSHIT ARORA • ULTIMATE RECRUITER README      -->
+<!--          HARSHIT ARORA • GOD LEVEL RECRUITER README     -->
 <!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,40:6A00FF,100:00F5FF&height=120&section=header&text=Harshit%20Arora&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:6A00FF,70:FF00F7,100:00F5FF&height=160&section=header&text=Harshit%20Arora&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=26&pause=700&color=00F7FF&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer+%7C+Data+Analytics+%7C+AI+Enthusiast;UI%2FUX+%7C+Hackathons+%7C+Competitive+Programming;Building+Products+That+Actually+Matter+🚀;Recruiter+Friendly+Portfolio+README+%F0%9F%92%8E;Think+Like+A+Hero+⚡" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer+%7C+Data+Analytics+%7C+AI+Enthusiast;UI%2FUX+%7C+Hackathons+%7C+Competitive+Programming;Building+Products+That+Actually+Matter+%F0%9F%9A%80;Recruiter+Friendly+Portfolio+README+%F0%9F%92%8E;Top+Internships+%E2%86%92+Scale+Impact+%F0%9F%94%A5" />
 
 <br>
 
-<!-- 🪪 Recruiter Badge Row -->
+<!-- ✅ Recruiter Badge Row -->
 <img src="https://img.shields.io/badge/OPEN%20TO-Internships%20%26%20Collabs-00F5FF?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/ROLE-Full%20Stack%20%7C%20Analytics-6A00FF?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/FOCUS-Impact%20Projects-00F5FF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/FOCUS-Impact%20%7C%20AI%20Products-FF00F7?style=for-the-badge&labelColor=000000"/>
 
 <br><br>
 
-<!-- 🔗 Links -->
+<!-- 🔗 Profile Links -->
 <a href="https://github.com/harshit1arora">
   <img src="https://img.shields.io/badge/GitHub-harshit1arora-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
-<a href="https://www.linkedin.com/">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
-<a href="https://portfolio-link.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+
+<a href="https://YOUR_PORTFOLIO_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF00F7?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000"/>
 </a>
-<a href="https://drive.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+
+<a href="https://YOUR_RESUME_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-00F5FF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000"/>
 </a>
 
 <br><br>
 
-<!-- ⭐ Aesthetic Line -->
-<img src="https://user-images.githubusercontent.com/74038190/216656975-9d8c18f2-81d7-4b5e-97f5-3b7f2cd45c5f.gif" width="85%"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656975-9d8c18f2-81d7-4b5e-97f5-3b7f2cd45c5f.gif" width="90%"/>
 
 </div>
 
@@ -44,8 +46,8 @@
 
 <div align="center">
 
-## ⚡ The “One-Line Summary”
-**I build scalable full-stack products + analytics-first solutions with clean UI/UX and real-world impact.**
+## ⚡ The One-Line Summary  
+### **I build scalable products, AI-first solutions & analytics-driven systems with clean UI/UX + real impact.**
 
 </div>
 
@@ -56,11 +58,11 @@
 ## 🚀 About Me (Recruiter View ✅)
 
 - 🎓 **B.Tech CSE @ VIT Bhopal (2023–2027)**
-- 💻 Full Stack Dev: **MERN • APIs • Auth • Deployment**
-- 📊 Analytics: **SQL • Product Sense • Experimentation**
-- 🤖 AI Enthusiast: building AI-driven tools with real impact  
+- 💻 Full Stack Dev: **MERN • REST APIs • Auth • Deployment**
+- 📊 Data Analytics: **SQL • Product Thinking • Experimentation**
+- 🤖 AI Enthusiast: building real-world AI tools  
 - 🎨 Strong UI/UX + product mindset  
-- 🏆 Hackathons + competitions + strong learning curve  
+- 🏆 Hackathons + competitions + fast learning curve  
 - 🎯 Goal: **Top internships → Build products used at scale**
 
 <br clear="right"/>
@@ -69,18 +71,31 @@
 
 <div align="center">
 
-## 🧊 Skills Snapshot (Glow Cards)
+## 🧠 Current Mission (2026 Mode 🔥)
 
-<img src="https://img.shields.io/badge/AI%20Enthusiast-00F5FF?style=for-the-badge&labelColor=000000&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-6A00FF?style=for-the-badge&labelColor=000000&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-00F5FF?style=for-the-badge&labelColor=000000&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-6A00FF?style=for-the-badge&labelColor=000000&logo=figma&logoColor=white"/>
+✅ Cracking **Top SDE + Analytics Internships**  
+✅ Shipping **high-impact projects** with real users  
+✅ Building **AI + Product systems** not just demos  
+✅ Winning **hackathons + showcasing execution speed**  
 
 </div>
 
 ---
 
-## 🧬 Tech Stack (Neon Pro Mode)
+<div align="center">
+
+## 🧊 Skills Snapshot (Premium Glow)
+
+<img src="https://img.shields.io/badge/AI%20Enthusiast-00F5FF?style=for-the-badge&labelColor=000000&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-6A00FF?style=for-the-badge&labelColor=000000&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-FF00F7?style=for-the-badge&labelColor=000000&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-00F5FF?style=for-the-badge&labelColor=000000&logo=figma&logoColor=white"/>
+
+</div>
+
+---
+
+## 🧬 Tech Stack (Neon Pro Mode ⚡)
 
 <div align="center">
 
@@ -99,11 +114,12 @@
 
 ### ⚙️ Backend + DB
 ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-0A0A0A?style=for-the-badge&logo=socket.io&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ☁️ Cloud + Tools
+### ☁️ Tools + Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
@@ -115,23 +131,27 @@
 
 ---
 
-## 🏆 Featured Projects (Recruiter Table ✅)
+<div align="center">
+
+## 🏆 Featured Projects (Recruiter View ✅)
+
+</div>
 
 <div align="center">
 
-| 🚀 Project | 🔥 Impact / Purpose | ⚙️ Tech Stack |
-|----------|----------------------|--------------|
-| 🌊 **Walspectra** | Scalable real-world solution with clean UI | MERN • APIs |
-| 🤖 **TataBot – Loan Buddy BFSI** | Chatbot for loan + BFSI customer support | Node • UI |
-| 👨‍🏫 **GuruVani** | Personalised Teaching Assistant for Teachers | AI • Web |
+| 🚀 Project | 🔥 What it Solves | ⚙️ Stack |
+|----------|-------------------|----------|
+| 🌊 **Walspectra** | Real-world scalable product + clean UI | MERN • APIs |
+| 🤖 **TataBot – Loan Buddy BFSI** | Chat-based loan + BFSI help system | Node • UI |
+| 👨‍🏫 **GuruVani** | AI Assistant for teachers & classrooms | AI • Web |
 
 </div>
 
 ---
 
-## 📌 Pinned Project Cards (INSANE LOOK)
-
 <div align="center">
+
+## 📌 Pinned Cards (Premium Mode)
 
 <a href="https://github.com/harshit1arora/Walspectra">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit1arora&repo=Walspectra&theme=tokyonight&hide_border=true" />
@@ -145,59 +165,67 @@
 
 ---
 
-## 📈 Contribution Graph (NEON 🔥)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit1arora&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=6A00FF&point=00F5FF" />
-</p>
-
----
-
-## 🏙️ 3D Contribution Skyline (WOW FACTOR)
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=harshit1arora&theme=tokyonight" />
-</p>
-
----
-
-## 📊 GitHub Stats (No-Nonsense Premium)
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshit1arora&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=harshit1arora&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit1arora&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+## 📈 GitHub Performance (No-Nonsense)
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshit1arora&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=harshit1arora&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit1arora&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
 
 </div>
 
 ---
 
+<div align="center">
+
+## 🗺️ Contribution Graph (Neon 🔥)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit1arora&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00F7&point=6A00FF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌆 3D Contribution Skyline (WOW FACTOR)
+
+<img src="https://github-profile-3d-contrib.vercel.app/api?username=harshit1arora&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshit1arora&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=harshit1arora&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+## 🐍 Contribution Snake (Legendary)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 😄 Fun Zone
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%230A0A0A&qColor=%2300F5FF&aColor=%236A00FF&borderColor=%230A0A0A" alt="Random Dev Joke"/>
-</p>
+<img src="https://readme-jokes.vercel.app/api?bgColor=%230A0A0A&qColor=%2300F5FF&aColor=%23FF00F7&borderColor=%230A0A0A" alt="Random Dev Joke"/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
 
 ---
 
@@ -205,8 +233,8 @@
 
 <img src="https://visitcount.itsvg.in/api?id=harshit1arora&icon=5&color=12" />
 
-<h2>⚡ Recruiter? Let's build something impactful together 🚀</h2>
+<h2>⚡ Recruiter? Let’s build something impactful together 🚀</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F5FF&height=140&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:FF00F7,100:00F5FF&height=160&section=footer&animation=twinkling" />
 
 </div>
