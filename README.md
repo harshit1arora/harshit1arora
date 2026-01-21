@@ -54,7 +54,7 @@
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🚀 About Me (Recruiter View ✅)
+## 🚀 About Me
 
 - 🎓 **B.Tech CSE @ VIT Bhopal (2023–2027)**
 - 💻 Full Stack Dev: **MERN • REST APIs • Auth • Deployment**
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-## 🧠 Current Mission (2026 Mode 🔥)
+## 🧠 Current Mission 
 
 ✅ Cracking **Top SDE + Analytics Internships**  
 ✅ Shipping **high-impact projects** with real users  
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-## 🧊 Skills Snapshot (Premium Glow)
+## 🧊 Skills Snapshot 
 
 <img src="https://img.shields.io/badge/AI%20Enthusiast-00F5FF?style=for-the-badge&labelColor=000000&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-6A00FF?style=for-the-badge&labelColor=000000&logo=react&logoColor=white"/>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🧬 Tech Stack (Neon Pro Mode ⚡)
+## 🧬 Tech Stack (
 
 <div align="center">
 
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-## 🏆 Featured Projects (Recruiter View ✅)
+## 🏆 Featured Projects 
 
 </div>
 
@@ -150,7 +150,7 @@
 
 <div align="center">
 
-## 📌 Pinned Cards (Premium Mode)
+## 📌 Pinned Cards 
 
 <a href="https://github.com/harshit1arora/Walspectra">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit1arora&repo=Walspectra&theme=tokyonight&hide_border=true" />
@@ -166,7 +166,7 @@
 
 <div align="center">
 
-## 📈 GitHub Performance (No-Nonsense)
+## 📈 GitHub Performance
 
 <img src="https://github-readme-stats.vercel.app/api?username=harshit1arora&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=harshit1arora&theme=tokyonight&hide_border=true" height="170"/>
@@ -178,7 +178,7 @@
 
 <div align="center">
 
-## 🗺️ Contribution Graph (Neon 🔥)
+## 🗺️ Contribution Graph 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit1arora&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00F7&point=6A00FF" />
 
@@ -188,7 +188,7 @@
 
 <div align="center">
 
-## 🌆 3D Contribution Skyline (WOW FACTOR)
+## 🌆 3D Contribution Skyline
 
 <img src="https://github-profile-3d-contrib.vercel.app/api?username=harshit1arora&theme=tokyonight" />
 
@@ -208,7 +208,7 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake (Legendary)
+## 🐍 Contribution Snake 
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
