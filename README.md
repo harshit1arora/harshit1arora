@@ -8,7 +8,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=28&pause=800&color=00F7FF&center=true&vCenter=true&width=1100&lines=Full+Stack+Developer+%7C+Data+Analytics+%7C+AI+Enthusiast;UI%2FUX+%7C+Hackathons+%7C+Competitive+Programming;Building+Products+That+Actually+Matter+%F0%9F%9A%80;Recruiter+Friendly+Portfolio+README+%F0%9F%92%8E;Top+Internships+%E2%86%92+Scale+Impact+%F0%9F%94%A5" />
 
 <br>
 
