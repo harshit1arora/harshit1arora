@@ -45,7 +45,7 @@
 
 <div align="center">
 
-## ⚡ The One-Line Summary  
+## ⚡ Summary In A Line
 ### **I build scalable products, AI-first solutions & analytics-driven systems with clean UI/UX + real impact.**
 
 </div>
@@ -94,7 +94,7 @@
 
 ---
 
-## 🧬 Tech Stack (
+## 🧬 Tech Stack
 
 <div align="center">
 
