@@ -231,7 +231,7 @@
 
 <img src="https://visitcount.itsvg.in/api?id=harshit1arora&icon=5&color=12" />
 
-<h2>⚡ Recruiter? Let’s build something impactful together </h2>
+<h2>⚡ Recruiter? Let’s build something impactful together. Let's Connect</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:FF00F7,100:00F5FF&height=160&section=footer&animation=twinkling" />
 
