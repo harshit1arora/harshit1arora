@@ -218,7 +218,7 @@
 
 <div align="center">
 
-## 😄 Fun Zone
+## Fun Zone
 
 <img src="https://readme-jokes.vercel.app/api?bgColor=%230A0A0A&qColor=%2300F5FF&aColor=%23FF00F7&borderColor=%230A0A0A" alt="Random Dev Joke"/>
 
