@@ -13,7 +13,6 @@
 
 <br><br>
 
-<!-- 🔗 Profile Links -->
 <a href="https://github.com/harshit1arora">
   <img src="https://img.shields.io/badge/GitHub-harshit1arora-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
 </a>
