@@ -7,7 +7,6 @@
 
 <br>
 
-<!-- Recruiter Badge Row -->
 <img src="https://img.shields.io/badge/OPEN%20TO-Internships%20%26%20Collabs-00F5FF?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/ROLE-Full%20Stack%20%7C%20Analytics-6A00FF?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/FOCUS-Impact%20%7C%20AI%20Products-FF00F7?style=for-the-badge&labelColor=000000"/>
