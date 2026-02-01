@@ -47,7 +47,7 @@
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 🚀 About Me!
+## 🚀 About Me!!
 
 - 🎓 **B.Tech CSE @ VIT Bhopal (2023–2027)**
 - 💻 Full Stack Dev: **MERN • REST APIs • Auth • Deployment**
