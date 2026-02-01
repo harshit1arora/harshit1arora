@@ -55,7 +55,7 @@
 - 🤖 AI Enthusiast: building real-world AI tools  
 - 🎨 Strong UI/UX + product mindset  
 - 🏆 Hackathons + competitions + fast learning curve  
-- 🎯 Goal: **Top internships → Build products used at scale**
+- 🎯 Goal: **Top internships → Build products used at scale for many**
 
 <br clear="right"/>
 
