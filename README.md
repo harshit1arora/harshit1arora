@@ -39,7 +39,7 @@
 
 <div align="center">
 
-## ⚡ Summary In A 
+## ⚡ Sum
 ### **I build scalable products, AI-first solutions & analytics-driven systems with clean UI/UX + real impact.**
 
 </div>
