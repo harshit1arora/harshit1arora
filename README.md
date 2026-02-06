@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:6A00FF,70:FF00F7,100:00F5FF&height=160&section=header&text=Harshit%20Arora&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
-
+Heyaa
 <div align="center">
 
 <br>
