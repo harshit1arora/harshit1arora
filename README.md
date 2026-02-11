@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-ok
+
 <br>
 
 <img src="https://img.shields.io/badge/OPEN%20TO-Internships%20%26%20Collabs-00F5FF?style=for-the-badge&labelColor=000000"/>
