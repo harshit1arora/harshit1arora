@@ -48,7 +48,7 @@
 
 ## 🚀 About Me!!
 
-- 🎓 **B.Tech CSE @ VIT Bhopal (2023–2027)**
+- 🎓 **B.Tech CS @ VIT Bhopal (2023–2027)**
 - 💻 Full Stack Dev: **MERN • REST APIs • Auth • Deployment**
 - 📊 Data Analytics: **SQL • Product Thinking • Experimentation**
 - 🤖 AI Enthusiast: building real-world AI tools  
