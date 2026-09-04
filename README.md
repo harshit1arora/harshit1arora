@@ -1,229 +1,164 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:6A00FF,70:FF00F7,100:00F5FF&height=160&section=header&text=Harshit%20Arora&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
-</p>
-
 <div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=HARSHIT%20ARORA&fontSize=50&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Analytics%20%7C%20AI%20Builder&descAlignY=68&descSize=18&descColor=8892b0" width="100%"/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO-Internships%20%26%20Collabs-00F5FF?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ROLE-Full%20Stack%20%7C%20Analytics-6A00FF?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/FOCUS-Impact%20%7C%20AI%20Products-FF00F7?style=for-the-badge&labelColor=000000"/>
+<br/>
 
-<br><br>
+```
+$ whoami
+> B.Tech CS student @ VIT Bhopal · building products, not demos
+> Stack: MERN · SQL · AI tooling · shipping fast
+```
 
-<a href="https://github.com/harshit1arora">
-  <img src="https://img.shields.io/badge/GitHub-harshit1arora-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-</a>
+<br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF00F7?style=for-the-badge&logo=todoist&logoColor=white&labelColor=000000"/>
-</a>
-
-<a href="https://YOUR_RESUME_LINK_HERE" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-00F5FF?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000"/>
-</a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216656975-9d8c18f2-81d7-4b5e-97f5-3b7f2cd45c5f.gif" width="90%"/>
+[![GitHub](https://img.shields.io/badge/-harshit1arora-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshit1arora)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://YOUR_LINKEDIN_HERE)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=todoist&logoColor=white)](https://YOUR_PORTFOLIO_LINK_HERE)
+[![Resume](https://img.shields.io/badge/-Resume-4ECDC4?style=flat-square&logo=googledrive&logoColor=white)](https://YOUR_RESUME_LINK_HERE)
 
 </div>
 
----
+<br/>
 
-<div align="center">
+## 🧭 About
 
-## ⚡ Summary 
-### **I build scalable products, AI-first solutions & analytics-driven systems with clean UI/UX + real impact.**
+I'm a Computer Science student (2023–2027) who builds full-stack products with a strong eye for UI/UX, backed by data thinking. I like projects that solve a real problem for real users — not just portfolio filler. Currently deep in AI-first tooling and hunting for internships where I can ship things that matter.
 
-</div>
+- 🎓 **B.Tech CS**, VIT Bhopal — Class of 2027
+- 🛠️ **Full Stack**: MERN, REST APIs, Auth, Deployment
+- 📊 **Analytics**: SQL, product thinking, experimentation
+- 🤖 **AI**: building practical tools, not just wrappers
+- 🎨 Product + design mindset — I care how things *feel*, not just work
+- 🏆 Hackathons, fast execution, learn-by-shipping
 
+<br/>
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 🎯 Right Now
 
-## 🚀 About Me!!
+| Focus | Status |
+|---|---|
+| Landing top SDE + Analytics internships | 🔍 Actively searching |
+| Shipping high-impact projects with real users | 🚧 In progress |
+| Building AI + product systems (not demos) | 🧠 Ongoing |
+| Hackathons | 🏁 Competing |
 
-- 🎓 **B.Tech CS @ VIT Bhopal (2023–2027)**
-- 💻 Full Stack Dev: **MERN • REST APIs • Auth • Deployment**
-- 📊 Data Analytics: **SQL • Product Thinking • Experimentation**
-- 🤖 AI Enthusiast: building real-world AI tools  
-- 🎨 Strong UI/UX + product mindset  
-- 🏆 Hackathons + competitions + fast learning curve! 
-- 🎯 Goal: **Top internships → Build products used at scale for many**
+<br/>
 
-<br clear="right"/>
+## 🧰 Tech Stack
 
----
+**Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-<div align="center">
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## Current Goal 
+**Backend & Data**
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-0A0A0A?style=flat-square&logo=socket.io&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-✅ Cracking **Top SDE + Analytics Internships**  
-✅ Shipping **high-impact projects** with real users  
-✅ Building **AI + Product systems** not just demos  
-✅ Winning **hackathons + showcasing execution speed**  
+**Tools & Cloud**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-</div>
+<br/>
 
----
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🧊 Skills Snapshot 
+### 🌊 Walspectra
+Scalable full-stack product with clean UI and solid API design.
 
-<img src="https://img.shields.io/badge/AI%20Enthusiast-00F5FF?style=for-the-badge&labelColor=000000&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-6A00FF?style=for-the-badge&labelColor=000000&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-FF00F7?style=for-the-badge&labelColor=000000&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-00F5FF?style=for-the-badge&labelColor=000000&logo=figma&logoColor=white"/>
+`MERN` `REST APIs`
 
-</div>
+</td>
+<td width="33%" valign="top">
 
----
+### 🤖 TataBot
+Chat-based loan & BFSI assistant — Loan Buddy for banking use cases.
 
-## 🧬 Tech Stack
+`Node.js` `Chat UI`
 
-<div align="center">
+</td>
+<td width="33%" valign="top">
 
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 👨‍🏫 GuruVani
+AI assistant built for teachers and classrooms.
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+`AI` `Web`
 
-### ⚙️ Backend + DB
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-0A0A0A?style=for-the-badge&logo=socket.io&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Tools + Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Featured Projects 
-
-</div>
-
-<div align="center">
-
-| 🚀 Project | 🔥 What it Solves | ⚙️ Stack |
-|----------|-------------------|----------|
-| 🌊 **Walspectra** | Real-world scalable product + clean UI | MERN • APIs |
-| 🤖 **TataBot – Loan Buddy BFSI** | Chat-based loan + BFSI help system | Node • UI |
-| 👨‍🏫 **GuruVani** | AI Assistant for teachers & classrooms | AI • Web |
-
-</div>
-
----
-
-<div align="center">
-
-## 📌 Pinned Cards 
+</td>
+</tr>
+</table>
 
 <a href="https://github.com/harshit1arora/Walspectra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit1arora&repo=Walspectra&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit1arora&repo=Walspectra&theme=radical&hide_border=true"/>
 </a>
-
 <a href="https://github.com/harshit1arora/TataBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit1arora&repo=TataBot&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshit1arora&repo=TataBot&theme=radical&hide_border=true"/>
 </a>
 
+<br/><br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshit1arora&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit1arora&theme=radical&hide_border=true&layout=compact" height="165"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=harshit1arora&theme=radical&hide_border=true" width="48%"/>
+
 </div>
+
+<br/>
+
+## 🗺️ Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit1arora&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=ffffff" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harshit1arora&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 ---
 
-<div align="center">
+### 📬 Recruiter or collaborator? Let's build something worth shipping.
 
-## 📈 GitHub Performance
+<img src="https://visitcount.itsvg.in/api?id=harshit1arora&icon=5&color=12"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshit1arora&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=harshit1arora&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit1arora&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🗺️ Contribution Graph 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit1arora&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF00F7&point=6A00FF" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌆 3D Contribution Skyline
-
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=harshit1arora&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshit1arora&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake 
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-</div>
-
----
-
-<div align="center">
-
-
-<img src="https://readme-jokes.vercel.app/api?bgColor=%230A0A0A&qColor=%2300F5FF&aColor=%23FF00F7&borderColor=%230A0A0A" alt="Random Dev Joke"/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-
-<div align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=harshit1arora&icon=5&color=12" />
-
-<h2>⚡ Recruiter? Let’s build something impactful together. Let's Connect</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:FF00F7,100:00F5FF&height=160&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
 
 </div>
