@@ -62,7 +62,7 @@
 
 <div align="center">
 
-## Current Mission 
+## Current Goal 
 
 ✅ Cracking **Top SDE + Analytics Internships**  
 ✅ Shipping **high-impact projects** with real users  
